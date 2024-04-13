@@ -4,7 +4,6 @@ import com.jwt.dto.TokenResponse;
 import com.jwt.service.UserService;
 import com.jwt.dto.LoginDto;
 import com.jwt.dto.PropertyUserDto;
-import com.jwt.entity.PropertyUser;
 import lombok.AllArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

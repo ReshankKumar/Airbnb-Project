@@ -2,8 +2,6 @@ package com.jwt.service;
 
 import com.jwt.dto.LoginDto;
 import com.jwt.dto.PropertyUserDto;
-import com.jwt.entity.PropertyUser;
-import com.jwt.repository.PropertUserRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.security.crypto.bcrypt.BCrypt;
 import org.springframework.stereotype.Service;

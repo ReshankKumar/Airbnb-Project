@@ -1,7 +1,5 @@
 package com.jwt.Config;
 
-import com.jwt.entity.PropertyUser;
-import com.jwt.repository.PropertUserRepository;
 import com.jwt.service.JWTService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
